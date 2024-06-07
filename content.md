@@ -13,7 +13,7 @@ Benefits of Using Exception Tracking Tools:
 - **Notification**: Get notified immediately when an exception occurs, allowing for quick responses to critical problems.
 - **Debugging Assistance**: Detailed reports and contextual information help you track down and resolve issues quickly, minimizing downtime and improving user experience.
 
-![](assets/airbake-error.png)
+![](/assets/airbake-error.png)
 
 ## Performance Monitoring
 Monitoring the performance of your application is essential to ensure it can handle load efficiently and provide a fast user experience. Tools like [New Relic](https://newrelic.com/ruby/rails) and [Render's built-in metrics](https://docs.render.com/service-metrics) provide valuable insights into your application's performance.
@@ -26,9 +26,9 @@ Key Metrics to Monitor:
 
 You can set up performance monitoring on Render by following their service metrics documentation.
 
-![](assets/metrics-ram.webp)
+![](/assets/metrics-ram.webp)
 
-![](assets/metrics-response-times.webp)
+![](/assets/metrics-response-times.webp)
 
 ## Keeping Logs
 Logging is a fundamental aspect of monitoring that provides insights into your application's behavior and helps troubleshoot issues.
